@@ -1,6 +1,6 @@
 # topdesk assignment
 
-### What should I do:
+### What should it do:
 - Make a front-end application, that can access ***at least two*** free APIs
 - Do a fun interaction with them by combining the data
 - Include some user interaction, so its not just static display
